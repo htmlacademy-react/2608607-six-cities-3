@@ -3,7 +3,7 @@
 * Студент: [Yuri Tamurkin](https://up.htmlacademy.ru/react-individual/3/user/2608607).
 * Наставник: `Василий Петрухин`.
 
----
+---n
 
 _Не удаляйте и не изменяйте папки и файлы:_
 _`.editorconfig`, `.gitattributes`, `.gitignore`._
